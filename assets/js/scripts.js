@@ -1,10 +1,4 @@
 /*
-Theme Name: IAMX
-Author: Trendy Theme
-Author URL: trendytheme.net
-*/
-
-/*
     = Preloader
     = Animated scrolling / Scroll Up
     = Full Screen Slider
