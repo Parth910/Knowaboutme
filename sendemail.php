@@ -68,4 +68,3 @@
 
     echo json_encode( $result );
 
-    die;
