@@ -1,2 +1,2 @@
 
-[My Info](https://tony4203.github.io/Knowaboutme/) and ![Image](src)
+[My Info](https://tony4203.github.io/Knowaboutme/) and ![Image](myinfo.png)
